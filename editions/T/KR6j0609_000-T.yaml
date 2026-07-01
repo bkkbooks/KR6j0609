@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0609/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說玄師颰陀所說神呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1378a.xml
+    old_id: T21n1378a
+hash: sha256:90fb65bfd10d2723b6b0523bda89149ca88b8d3d030398e0afa3b7f69fd7b44d

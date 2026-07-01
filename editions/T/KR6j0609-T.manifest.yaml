@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0609/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0609/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說玄師颰陀所說神呪經
+  identifiers:
+    krp: KR6j0609
+    cbeta: T21n1378a
+    cbeta_old_id: T21n1378a
+    authorityid: CA0001474a
+    json_key: T1378a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1378a.xml
+    old_id: T21n1378a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0609_000-T.yaml, hash: 'sha256:90fb65bfd10d2723b6b0523bda89149ca88b8d3d030398e0afa3b7f69fd7b44d'}
+  - {seq: 1, filename: KR6j0609_001-T.yaml, hash: 'sha256:573e727dfa1ef6abb7ceba4b6eb42b8e5565773158bc9e02e630b5ba59b5d412'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0609_000-T.markers.yaml, hash: 'sha256:1eb5cde05fadf9df548b04be83e46825c966f36efa18cf9a1869395c317c77c1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0609_001-T.markers.yaml, hash: 'sha256:55c884fbed4220b402d8b659a9be08ea5c0d6f41484ae2bbc53664e32d8a52d4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0609_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 420
+  label: 佛說玄師颰陀所說神呪經
+  type: juan
+  level: 1
+hash: sha256:8656592d133710b2f126477bc5ce5a4f7d5f7ec5ae9f76ed4052acf946d70f21
