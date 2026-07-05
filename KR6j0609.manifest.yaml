@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0609_000.yaml, hash: 'sha256:90fb65bfd10d2723b6b0523bda89149ca88b8d3d030398e0afa3b7f69fd7b44d'}
-  - {seq: 1, filename: KR6j0609_001.yaml, hash: 'sha256:f5dd5ea1491a5aa258328b49745b0ec3a5e45a64d502a41d73998f82087cdf2a'}
+  - {seq: 1, filename: KR6j0609_001.yaml, hash: 'sha256:573e727dfa1ef6abb7ceba4b6eb42b8e5565773158bc9e02e630b5ba59b5d412'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0609_001.markers.yaml, hash: 'sha256:86e6e54ee6de02a7d16c931c3000a9787337ceafd77075ca70db102e0af9c26e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0609_000.markers.yaml, hash: 'sha256:7c5116ed7d88c68a4a490f76a1cce92368f3c614afb6965ee5090784f9ba71c6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0609_001.markers.yaml, hash: 'sha256:88812bbe26acad962728d56b0b3d97991e37ad0309acb49564474e78725e9fb5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛說玄師颰陀所說神呪經
   type: juan
   level: 1
-hash: sha256:e1488633033889a65da64c47a2247ac21ef8626fa7e5aeb4505f31bbcd619f5d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8da630fe2ac72a700b2e9c52a878250e8472b13cdb1e4a3a29cf6aeebed81730
 editions:
 - short: T
