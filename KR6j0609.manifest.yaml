@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0609/v1
 canonical_location: https://kanripo.org/bkk/KR6j0609/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說玄師颰陀所說神呪經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0609_000.yaml, hash: 'sha256:90fb65bfd10d2723b6b0523bda89149ca88b8d3d030398e0afa3b7f69fd7b44d'}
-  - {seq: 1, filename: KR6j0609_001.yaml, hash: 'sha256:573e727dfa1ef6abb7ceba4b6eb42b8e5565773158bc9e02e630b5ba59b5d412'}
+  - {seq: 1, filename: KR6j0609_001.yaml, hash: 'sha256:f5dd5ea1491a5aa258328b49745b0ec3a5e45a64d502a41d73998f82087cdf2a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0609_000.markers.yaml, hash: 'sha256:7c5116ed7d88c68a4a490f76a1cce92368f3c614afb6965ee5090784f9ba71c6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0609_001.markers.yaml, hash: 'sha256:88812bbe26acad962728d56b0b3d97991e37ad0309acb49564474e78725e9fb5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0609_001.markers.yaml, hash: 'sha256:9cfa760311eba1d97fd995ec4504f2fea3ebc67c4bc5d87e42d4a4d9299fdef2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 佛說玄師颰陀所說神呪經
   type: juan
   level: 1
-hash: sha256:8da630fe2ac72a700b2e9c52a878250e8472b13cdb1e4a3a29cf6aeebed81730
+hash: sha256:44d6a9b3a46edbaac2051b95f626581f5cff7b835b85ad15c4f8387cadcfebff
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
